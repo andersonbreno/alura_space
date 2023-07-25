@@ -1,6 +1,6 @@
-# alura_space
+# Alura Space
 
-## Sorbre o projeto
+## Sobre o projeto
 Projeto desenvolvido na formação de desenvolvimento Web com Django da Alura.
 
 ## Tecnologias utilizadas
